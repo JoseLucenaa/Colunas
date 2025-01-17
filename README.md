@@ -6,11 +6,6 @@ A **Banda Avivados** é composta por jovens que buscam viver um avivamento verda
 
 ---
 
-## 💻 Visualize o Site
-
-Você pode conferir o nosso site clicando [aqui](#).
-
----
 
 ## 🎶 O que é a Banda Avivados?
 
