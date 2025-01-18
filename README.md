@@ -1,4 +1,4 @@
-Banda Avivados
+#Banda Avivados
 
 Bem-vindo ao site oficial da Banda Avivados! 🌟
 
@@ -6,13 +6,13 @@ A Banda Avivados é formada por jovens comprometidos com a missão de levar a me
 
 Nossa paixão é proporcionar um avivamento real e autêntico, onde cada nota, letra e acorde ressoam a fé, a esperança e a renovação. A música tem o poder de tocar corações e transformar realidades — e esse é o nosso propósito.
 
-🎶 O Que é a Banda Avivados?
+#🎶 O Que é a Banda Avivados?
 
 A Banda Avivados é composta por jovens apaixonados por Deus, que acreditam no poder transformador da música e do louvor. Nosso objetivo é criar um ambiente onde a presença do Espírito Santo possa ser experimentada de forma profunda e verdadeira, gerando avivamento nos corações de todos os envolvidos.
 
 Somos mais que uma banda: somos uma comunidade, um movimento de jovens que busca ser luz, espalhando fé e renovação. Aqui, cada canção é um convite para viver algo novo com Deus.
 
-🚀 Tecnologias Usadas
+#🚀 Tecnologias Usadas
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 HTML5 — Estrutura e organização do conteúdo
@@ -32,11 +32,11 @@ Abra o arquivo index.html no seu navegador e comece a explorar o site!
 
 Dica: Caso queira implementar novas funcionalidades, basta editar os arquivos HTML, CSS e JavaScript conforme suas necessidades.
 
-🎤 Acompanhe Nossa Jornada
+#🎤 Acompanhe Nossa Jornada
 
 Nosso trabalho vai muito além do palco! A cada evento, a cada apresentação, a nossa missão é impactar o coração de cada pessoa que nos ouve. Fique por dentro dos próximos eventos, novos lançamentos e momentos especiais que compartilharemos com você.
 
-Siga-nos nas redes sociais:
+#Siga-nos nas redes sociais:
 
 Instagram: @av1vadoss
 Facebook: @av1vadoss
