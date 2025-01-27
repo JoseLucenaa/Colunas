@@ -1,0 +1,14 @@
+@media screen and (max-width: 600px){
+    header nav, header .div-button{
+        display: none;
+    }
+
+    #s1 .cont-s1 .infos  img{
+        width: 325px;
+    }
+
+    #s1 .cont-s1 .infos h4{
+        font-size: 8px;
+        letter-spacing: 6px;
+    }
+}
